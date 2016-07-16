@@ -1,0 +1,4 @@
+name: GravityControl
+Author: broswen
+version: 1.0
+main: com.broswen.gravitycontrol.GravityControl
